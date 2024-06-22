@@ -1,4 +1,4 @@
-# test_code_flutter_fire
+# flutter_app_bloc_pattern
 
 A new Flutter project.
 
@@ -88,6 +88,4 @@ Logout:
  Check for any dependency issues by running:
  - flutter doctor
 
-# flutter_app_bloc_pattern
-# flutter_app_bloc_pattern
-# Flutter_app_bloc_pattern
+
